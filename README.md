@@ -1,3 +1,2 @@
-#Hey friends
-##This repo is just for practicing
-###We are code decoder  
+# Learn GIT
+A fresh repository to novice developers to get started with open source software contributions.
